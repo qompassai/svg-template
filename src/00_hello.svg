@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 00_hello.svg — toolchain: any modern browser -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60"
+     role="img" aria-label="Hello">
+  <text x="10" y="35" font-family="sans-serif" font-size="16">
+    Hello from the Qompass AI SVG template.
+  </text>
+</svg>
